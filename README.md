@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Hardik Bambhania
-## 👀 I’m Android Developer having 8+ years of experience to build an Android application.
+## 👀 I’m Android Developer having 9+ years of experience to build an Android application.
 ## 📫 hardik.p.bambhania@gmail.com
 
 </br>
@@ -15,6 +15,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn-icons-png.flaticon.com/512/174/174836.png" alt="Android" style="height: 50px; width:50px;"/> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="Android" style="height: 50px; width:100px;"/>  &nbsp; &nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Android" style="height: 50px; width:50px;"/>
 
 ### Professional Experience
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/2560px-Mastercard-logo.svg.png" alt="Android" style="height: 50px; width:50px;"/>
-&nbsp; &nbsp;
-<img src="https://dynamic.placementindia.com/recruiter_comp_logo/289549.jpg" alt="Android" style="height: 50px; width:50px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/2560px-Mastercard-logo.svg.png" alt="Android" style="height: 50px; width:75px;"/> &nbsp; &nbsp; <img src="https://dynamic.placementindia.com/recruiter_comp_logo/289549.jpg" alt="Android" style="height: 50px; width:150px;"/>
